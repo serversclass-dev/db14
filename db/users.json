@@ -34,5 +34,33 @@
       "islamic"
     ],
     "server_num": 14
+  },
+  "LamaLama": {
+    "username": "LamaLama",
+    "password": "sVjUW6Iq$b7@Mzu",
+    "student_type": "علمي",
+    "telegram_user_id": "7839790785",
+    "telegram_username": null,
+    "telegram_first_name": "ام رواد، /١٤٤٧🍀",
+    "profile_photo_url": null,
+    "session_id": "1dda8651-413c-4dc6-8692-a570fb56fd69",
+    "created_at": "2026-05-10T15:46:24.090000",
+    "verified": true,
+    "last_login": "2026-05-10T15:51:35.990749",
+    "balance": 0,
+    "purchased_subjects": [
+      "islamic",
+      "english",
+      "math",
+      "it",
+      "statistics",
+      "physics_electric",
+      "chemistry",
+      "biology",
+      "physics_mechanic",
+      "linguistic_studies",
+      "literary_studies"
+    ],
+    "server_num": 14
   }
 }
